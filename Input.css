@@ -1,0 +1,13 @@
+.field{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 20px;
+}
+.answer{
+    font-size: 15px;
+}
+.input{
+   font-size: 10px;
+}
